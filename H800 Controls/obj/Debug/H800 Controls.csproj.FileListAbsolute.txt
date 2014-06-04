@@ -1,0 +1,15 @@
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\bin\Debug\H800 Controls.exe.config
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\bin\Debug\H800 Controls.exe
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\bin\Debug\H800 Controls.pdb
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\bin\Debug\nunit.framework.dll
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\bin\Debug\USBHIDDRIVER.dll
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\bin\Debug\nunit.framework.xml
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\bin\Debug\USBHIDDRIVER.pdb
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\bin\Debug\USBHIDDRIVER.xml
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\obj\Debug\H800 Controls.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\obj\Debug\H800_Controls.Form1.resources
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\obj\Debug\H800_Controls.Properties.Resources.resources
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\obj\Debug\H800 Controls.csproj.GenerateResource.Cache
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\obj\Debug\H800 Controls.exe
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\obj\Debug\H800 Controls.pdb
+d:\user\documents\visual studio 2013\Projects\H800 Controls\H800 Controls\bin\Debug\UsbLibrary.dll
