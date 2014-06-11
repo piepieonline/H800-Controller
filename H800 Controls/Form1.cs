@@ -86,6 +86,7 @@ namespace H800_Controls
                     }
                     usbOut = "";
                 }
+                System.Threading.Thread.Sleep(100);
             }
         }
 
